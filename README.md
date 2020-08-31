@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/kailigu/kubernetes_circleci.svg?style=svg)](https://circleci.com/gh/kailigu/kubernetes_circleci)
 
 ## Project Overview
 
