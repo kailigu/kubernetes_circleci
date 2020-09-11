@@ -11,6 +11,7 @@ dockerpath=kailigu/predictapp
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker -tag $dockerpath "$dockerpath:latest"
 docker login --username=kailigu
 
 # Step 3:
